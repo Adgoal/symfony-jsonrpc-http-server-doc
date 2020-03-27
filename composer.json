@@ -27,8 +27,8 @@
   },
   "suggest": {
     "yoanm/symfony-jsonrpc-http-server": "Symfony Bundle to convert an HTTP json-rpc request into HTTP json-rpc response",
-    "yoanm/symfony-jsonrpc-params-sf-constraints-doc": "Symfony bundle for easy Symfony constraints to JSON-RPC documentation transformation",
-    "yoanm/symfony-jsonrpc-http-server-openapi-doc": "Symfony bundle for easy JSON-RPC server OpenAPI 3.0.0 documentation",
+    "adgoal/symfony-jsonrpc-params-sf-constraints-doc": "Symfony bundle for easy Symfony constraints to JSON-RPC documentation transformation",
+    "adgoal/symfony-jsonrpc-http-server-openapi-doc": "Symfony bundle for easy JSON-RPC server OpenAPI 3.0.0 documentation",
     "yoanm/symfony-jsonrpc-http-server-swagger-doc": "Symfony bundle for easy JSON-RPC server Swagger 2.0 documentation"
   },
   "require": {
@@ -36,9 +36,9 @@
     "yoanm/jsonrpc-server-sdk": "^3.0",
     "yoanm/jsonrpc-server-doc-sdk": "^0.2",
     "yoanm/symfony-jsonrpc-http-server": "^2.0",
-    "symfony/http-kernel": "^3.0 || ^4.0",
-    "symfony/config": "^3.0 || ^4.0",
-    "symfony/dependency-injection": "^3.0 || ^4.0"
+    "symfony/http-kernel": "^4.0 || ^5.0",
+    "symfony/config": "^4.0 || ^5.0",
+    "symfony/dependency-injection": "^4.0 || ^5.0"
   },
   "require-dev": {
     "behat/behat": "~3.0",
