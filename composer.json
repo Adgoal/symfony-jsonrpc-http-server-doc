@@ -32,7 +32,7 @@
     "yoanm/symfony-jsonrpc-http-server-swagger-doc": "Symfony bundle for easy JSON-RPC server Swagger 2.0 documentation"
   },
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "yoanm/jsonrpc-server-sdk": "^3.0",
     "yoanm/jsonrpc-server-doc-sdk": "^0.2",
     "yoanm/symfony-jsonrpc-http-server": "^2.0",
