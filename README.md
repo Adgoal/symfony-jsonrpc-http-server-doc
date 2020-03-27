@@ -9,7 +9,7 @@
 
 Symfony bundle for easy JSON-RPC server documentation
 
-Symfony bundle for [`adgoal/jsonrpc-server-doc-sdk`](https://raw.githubusercontent.com/adgoal/php-jsonrpc-server-doc-sdk)
+Symfony bundle for [`yoanm/jsonrpc-server-doc-sdk`](https://raw.githubusercontent.com/adgoal/php-jsonrpc-server-doc-sdk)
 
 See [adgoal/symfony-jsonrpc-params-sf-constraints-doc](https://github.com/adgoal/symfony-jsonrpc-params-sf-constraints-doc) for params documentation generation.
 
