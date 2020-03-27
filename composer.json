@@ -1,5 +1,5 @@
 {
-  "name": "yoanm/symfony-jsonrpc-http-server-doc",
+  "name": "adgoal/symfony-jsonrpc-http-server-doc",
   "description": "Symfony bundle for easy JSON-RPC server documentation",
   "license": "MIT",
   "type": "library",
